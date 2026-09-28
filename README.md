@@ -17,7 +17,7 @@ learning  Rust
 **[redis-cpp](https://github.com/AbeerMiglani/redis-cpp)**: a Redis-style server in C++, built from first principles. `C++` `POSIX sockets`<br>
 TCP server and client on raw POSIX sockets, a length-prefixed binary protocol to frame messages over the byte stream, and `read_full`/`write_all` loops so partial reads never corrupt a request. Next up: an event loop, so one thread can serve many connections.
 
-**[ripple](https://github.com/AbeerMiglani/ripple)**: Manipal TechTatva Hackathon 2026, sole developer. `Rust` `Python` `WebSockets`<br>
+**[ripple](https://github.com/AbeerMiglani/ripple)**: Manipal Hackathon 2026, sole developer. `Rust` `Python` `WebSockets`<br>
 Simulates how one infrastructure failure cascades through a city's power, water, transit and telecom networks. A Rust (PyO3) extension handles the all-pairs shortest-path hotspot, and the cascade streams to the map wave by wave over WebSockets.
 
 ## Stack
@@ -35,4 +35,4 @@ Simulates how one infrastructure failure cascades through a city's power, water,
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<sub>`curl portfolio.abbykayo.com` prints my résumé in your terminal.</sub>
+<sub>`curl https://portfolio.abbykayo.com` prints my résumé in your terminal.</sub>
