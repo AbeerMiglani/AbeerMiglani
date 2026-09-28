@@ -17,7 +17,7 @@ learning  Rust
 **[redis-cpp](https://github.com/AbeerMiglani/redis-cpp)**: a Redis-style server in C++, built from first principles. `C++` `POSIX sockets`<br>
 TCP server and client on raw POSIX sockets, a length-prefixed binary protocol to frame messages over the byte stream, and `read_full`/`write_all` loops so partial reads never corrupt a request. Next up: an event loop, so one thread can serve many connections.
 
-**[ripple](https://github.com/AbeerMiglani/ripple)**: Manipal TechTatva Hackathon 2026, sole developer. `Rust` `Python` `WebSockets`<br>
+**[ripple](https://github.com/AbeerMiglani/ripple)**: Manipal Hackathon 2026, sole developer. `Rust` `Python` `WebSockets`<br>
 Simulates how one infrastructure failure cascades through a city's power, water, transit and telecom networks. A Rust (PyO3) extension handles the all-pairs shortest-path hotspot, and the cascade streams to the map wave by wave over WebSockets.
 
 ## Stack
@@ -34,21 +34,5 @@ Simulates how one infrastructure failure cascades through a city's power, water,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=AbeerMiglani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=fb8a4c&icon_color=fb8a4c&text_color=a19d95">
-  <img alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=AbeerMiglani&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=c2410c&icon_color=c2410c&text_color=6b6760" height="165">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=AbeerMiglani&layout=compact&hide_border=true&bg_color=00000000&title_color=fb8a4c&text_color=a19d95">
-  <img alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbeerMiglani&layout=compact&hide_border=true&bg_color=00000000&title_color=c2410c&text_color=6b6760" height="165">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AbeerMiglani&hide_border=true&background=00000000&ring=FB8A4C&fire=FB8A4C&currStreakLabel=FB8A4C&currStreakNum=ECEBE7&sideNums=ECEBE7&sideLabels=A19D95&dates=A19D95&stroke=2F2C28">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=AbeerMiglani&hide_border=true&background=00000000&ring=C2410C&fire=C2410C&currStreakLabel=C2410C&currStreakNum=1C1B19&sideNums=1C1B19&sideLabels=6B6760&dates=6B6760&stroke=E3DFD6">
-</picture>
 
 <sub>`curl portfolio.abbykayo.com` prints my résumé in your terminal.</sub>
