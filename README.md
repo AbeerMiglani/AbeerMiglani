@@ -4,7 +4,7 @@
 
 ECE undergrad at Shiv Nadar University. Right now I'm building a Redis-style server from scratch in C++; before that, Ripple, a simulator for how failures cascade through a city's infrastructure.
 
-Open to SWE internships · [portfolio.abbykayo.com](https://portfolio.abeermiglani.com) · [Résumé](https://portfolio.abeermiglani.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/abeermiglani/) · [am319@snu.edu.in](mailto:am319@snu.edu.in)
+Open to SWE internships · [portfolio.abeermiglani.com](https://portfolio.abeermiglani.com) · [Résumé](https://portfolio.abeermiglani.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/abeermiglani/) · [am319@snu.edu.in](mailto:am319@snu.edu.in)
 
 ```console
 $ now
